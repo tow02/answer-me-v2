@@ -1,0 +1,762 @@
+{
+  "images": [
+    {
+      "filename": "images/01-hall-of-bulls.png",
+      "title": "Halls of Bulls (Lascaux Cave)",
+      "period": "Paleolithic (Prehistoric)",
+      "medium": "Wall Painting",
+      "artist": ""
+    },
+    {
+      "filename": "images/02-bird-headed-man-and-bison.png",
+      "title": "Bird-Headed Man and Bison (Lascaux Cave)",
+      "period": "Paleolithic (Prehistoric)",
+      "medium": "Charcoal Drawing",
+      "artist": ""
+    },
+    {
+      "filename": "images/03-bison.png",
+      "title": "Bison (Altamira Cave)",
+      "period": "Paleolithic (Prehistoric)",
+      "medium": "Relief (bison stands out from the background)",
+      "artist": ""
+    },
+    {
+      "filename": "images/04-four-horses.png",
+      "title": "Four Horses (Chauvet Cave)",
+      "period": "Paleolithic (Prehistoric)",
+      "medium": "Charcoal Wall Painting",
+      "artist": ""
+    },
+    {
+      "filename": "images/05-lamp-with-ibex-design.png",
+      "title": "Lamp with Ibex Design",
+      "period": "Paleolithic (Prehistoric)",
+      "medium": "Animal design engrave on stone",
+      "artist": ""
+    },
+    {
+      "filename": "images/06-woman-from-willendorf.png",
+      "title": "Woman from Willendorf (Willendorf, Austria)",
+      "period": "Paleolithic (Prehistoric)",
+      "medium": "Sculpture",
+      "artist": ""
+    },
+    {
+      "filename": "images/07-man-and-woman.png",
+      "title": "Man and Woman (Romania)",
+      "period": "Neolithic (Prehistoric)",
+      "medium": "Ceramic Sculpture (Made from clay with bone and ashes added)",
+      "artist": ""
+    },
+    {
+      "filename": "images/08-horse-and-sun-chariot.png",
+      "title": "Horse and Sun Chariot (Denmark)",
+      "period": "Bronze Age (Prehistoric)",
+      "medium": "Sculpture (Sun disk engraved gold with curved patterns)",
+      "artist": ""
+    },
+    {
+      "filename": "images/09-mammoth-bone-house.png",
+      "title": "Mammoth Bone House (Ukraine)",
+      "period": "Paleolithic Architecture (Prehistoric)",
+      "medium": "Houses (using bones of the Wooly Mammoth, bones were covered with animal hides and natural materials to keep the inside warm)",
+      "artist": ""
+    },
+    {
+      "filename": "images/10-stonehenge.png",
+      "title": "Stonehenge (Wiltshire, England)",
+      "period": "Neolithic Architecture (Prehistoric)",
+      "medium": "Circle of stones surrounded by a ditch, Post and Lintel Construction, Stones from southern Wales",
+      "artist": ""
+    },
+    {
+      "filename": "images/11-votive-statues-of-worshippers.png",
+      "title": "Votive Statues of Worshippers",
+      "period": "Sumerians Art (Ancient Near East)",
+      "medium": "gypsum, shell, black limestone, various heights (tallest 30 inches high)",
+      "artist": ""
+    },
+    {
+      "filename": "images/12-warka-vase.png",
+      "title": "Warka Vase (Uruk, (Modern Warka), Iraq)",
+      "period": "Sumerians Art (Ancient Near East)",
+      "medium": "Relief Sculpture (Vase), Alabaster (mineral), 3 feet high, Reliefs depict Inanna (Sumerian Goddess of love, beauty, and war – also known as Ishtar in other parts of Mesopotamia)",
+      "artist": ""
+    },
+    {
+      "filename": "images/13-anu-ziggurat.png",
+      "title": "Anu Ziggurat (Ancient Uruk (modern Warka, Iraq))",
+      "period": "Sumerians Art (Ancient Near East)",
+      "medium": "Architecture (Temple), Ziggurats showed the wealth and power of the Sumerians",
+      "artist": ""
+    },
+    {
+      "filename": "images/14-bull-lyre-overall.png",
+      "title": "Bull Lyre",
+      "period": "Sumerians Art (Ancient Near East)",
+      "medium": "Musical Instrument, Wood, Shell Inlay, Lapis Lazuli, Gold Leaf, 2 meters high, (Bull: symbol of strength and power)",
+      "artist": ""
+    },
+    {
+      "filename": "images/15-bull-lyre-head.png",
+      "title": "Bull Lyre",
+      "period": "Sumerians Art (Ancient Near East)",
+      "medium": "Musical Instrument, Found in Tomb, Wood, Shell Inlay, Lapis Lazuli, Gold Leaf, 2 meters high, (Bull: symbol of strength and power)",
+      "artist": ""
+    },
+    {
+      "filename": "images/16-head-of-an-akkadian-ruler.png",
+      "title": "Head of an Akkadian Ruler",
+      "period": "Akkadian Art (Ancient Near East)",
+      "medium": "Copper, 14 in. high, Portrait of an Unknown Ruler, Dignity and Authority, Earliest hollow cast metal sculpture, Stylized beard, hair, and clothing",
+      "artist": ""
+    },
+    {
+      "filename": "images/17-votive-statue-of-gudea.png",
+      "title": "Votive Statue of Gudea",
+      "period": "Neo-Sumerian Art (Ancient Near East)",
+      "medium": "Sculpture (Carved Stone), 73.7 cm Tall, Gudea was the leader of Lagash (modern Telloh, Iraq)",
+      "artist": ""
+    },
+    {
+      "filename": "images/18-stele-of-Hammurabi.png",
+      "title": "Stele of Hammurabi",
+      "period": "Babylonian Art (Ancient Near East)",
+      "medium": "Sculpture (carved stone/relief) 2.13 Meters Tall, Hammurabi: King of Ancient Babylon, Stele: Vertical Upright Monument, Contains early set of written laws, Cuneiform writing, Conversation between Hammurabi and Shamash, the sun God",
+      "artist": ""
+    },
+    {
+      "filename": "images/19-lamassu.png",
+      "title": "Lamassu (Assyrian)",
+      "period": "Assyrian Art (Ancient Near East)",
+      "medium": "Carved Limestone, 13’10 high, Human-headed winged lion and bull, Served to ward off enemies and to guard Kings, Partly “in the round” and part relief, Front view at rest / side view in movement",
+      "artist": ""
+    },
+    {
+      "filename": "images/20-reconstruction-drawing-of-citadel-of-Sargon-II.png",
+      "title": "Reconstruction Drawing of citadel of Sargon II (Assyrian)",
+      "period": "Assyrian Art (Ancient Near East)",
+      "medium": "",
+      "artist": ""
+    },
+    {
+      "filename": "images/21-assurnasirpal-II-killing-lions.png",
+      "title": "Assurnasirpal II Killing Lions (Assyrian)",
+      "period": "Assyrian Art (Ancient Near East)",
+      "medium": "Relief (carved Stone), 99.1 cm Tall, Lion hunting scene (Theme of Man and Nature), Assurnasirpal II was the leader of Assyria, Assyrian ruler built huge palaces: these palaces were decorated with relief carvings",
+      "artist": ""
+    },
+    {
+      "filename": "images/22-lion-ishtar-gate.png",
+      "title": "Ishtar Gate (Lion) (Babylon)",
+      "period": "Neo-Babylonian Art (Ancient Near East)",
+      "medium": "Architecture (Glazed Brick)",
+      "artist": ""
+    },
+    {
+      "filename": "images/23-ishtar-gate.png",
+      "title": "Ishtar Gate (Babylon)",
+      "period": "Neo-Babylonian Art (Ancient Near East)",
+      "medium": "Architecture (Glazed Brick), Entrance to the Ancient city of Babylon, Lions: Symbols of Goddess Ishtar, Crenellated Towers, Glazed Bricks used to make the gate are long lasting and strong",
+      "artist": ""
+    },
+    {
+      "filename": "images/24-ishtar-gate-reconstruction-drawing.png",
+      "title": "Ishtar Gate reconstruction drawing (Babylon)",
+      "period": "Neo-Babylonian Art (Ancient Near East)",
+      "medium": "Architecture (Glazed Brick), Entrance to the Ancient city of Babylon, Lions: Symbols of Goddess Ishtar, Crenellated Towers, Glazed Bricks used to make the gate are long lasting and strong",
+      "artist": ""
+    },
+    {
+      "filename": "images/25-persepolis.png",
+      "title": "Persepolis: Palace of Darius I and Xerxes I (Persepolis, Iran)",
+      "period": "Persian Art (Ancient Near East)",
+      "medium": "Buildings separated by streets and open spaces, Columned hall was dominant structure, Standing on a rock cut platform, Stone used throughout the palace, Forms of figures derived from Egyptian style (Persians traded with the Egyptians)",
+      "artist": ""
+    },
+    {
+      "filename": "images/26-persepolis.png",
+      "title": "Persepolis: Palace of Darius I and Xerxes I (Persepolis, Iran)",
+      "period": "Persian Art (Ancient Near East)",
+      "medium": "Buildings separated by streets and open spaces, Columned hall was dominant structure, Standing on a rock cut platform, Stone used throughout the palace, Forms of figures derived from Egyptian style (Persians traded with the Egyptians)",
+      "artist": ""
+    },
+    {
+      "filename": "images/27-plan-of-persepolis.png",
+      "title": "Persepolis: Palace of Darius I and Xerxes I (Persepolis, Iran)",
+      "period": "Persian Art (Ancient Near East)",
+      "medium": "Buildings separated by streets and open spaces, Columned hall was dominant structure, Standing on a rock cut platform, Stone used throughout the palace, Forms of figures derived from Egyptian style (Persians traded with the Egyptians)",
+      "artist": ""
+    },
+    {
+      "filename": "images/28-stepped-pyramid-of-djoser.png",
+      "title": "Stepped Pyramid of Djoser",
+      "period": "Ancient Egyptian Art",
+      "medium": "Architecture, Limestone, Tomb for King Djoser, Burial Chamber below ground",
+      "artist": "Imhotep (Prime Minister)"
+    },
+    {
+      "filename": "images/29-great-pyramids-of-giza.png",
+      "title": "Great Pyramids of Giza",
+      "period": "Ancient Egyptian Art",
+      "medium": "Architecture (tombs), for King Mankaura, King Khafre and King Khufu (tallest: 137 meters), contained false passageways",
+      "artist": ""
+    },
+    {
+      "filename": "images/30-the-great-sphinx.png",
+      "title": "The Great Sphinx",
+      "period": "Ancient Egyptian Art",
+      "medium": "Portraits of King Khafra",
+      "artist": ""
+    },
+    {
+      "filename": "images/31-khafre.png",
+      "title": "Khafre",
+      "period": "Ancient Egyptian Art",
+      "medium": "Carved Anorthosite Gneiss (rare stone, glows a deep blue in sunlight, celestial color of Horus (falcon God who protects the King)), wears royal clothing, head dress in the shape of a cobra (represents the sun god), fake beard, Conveys dignity, calmness, and permanence",
+      "artist": ""
+    },
+    {
+      "filename": "images/32-funerary-mask-of-tutankhamun.png",
+      "title": "Funerary Mask of Tutankhamun",
+      "period": "Ancient Egyptian Art",
+      "medium": "Gold inlaid with glass and semiprecious stones, height 54 cm, Tomb filled with treasures",
+      "artist": ""
+    },
+    {
+      "filename": "images/33-inner-coffin-of-tutankhamen-sarcophagus.png",
+      "title": "Inner Coffin of Tutankhamen’s Sarcophagus",
+      "period": "Ancient Egyptian Art",
+      "medium": "Gold inlaid with glass and semiprecious stones, height 54 cm, Tomb filled with treasures",
+      "artist": ""
+    },
+    {
+      "filename": "images/34-nefertiti.png",
+      "title": "Nefertiti",
+      "period": "Ancient Egyptian Art",
+      "medium": "Painted Limestone, Height 51 cm, Egyptian beauty ideal, Dramatic use of color",
+      "artist": "Tutmose"
+    },
+    {
+      "filename": "images/35-rosetta-stone.png",
+      "title": "Rosetta Stone",
+      "period": "Ancient Egyptian Art",
+      "medium": "Ancient Egyptian stele originally displayed in a temple, key to understanding Egyptian hieroglyphic, Decree issued by King Ptolemy V; top part: ancient hieroglyphics, middle part: Egyptian demotic writing, lower part: ancient Greek writing",
+      "artist": ""
+    },
+    {
+      "filename": "images/36-akhenaten-and-his-family.png",
+      "title": "Akhenaten and his Family",
+      "period": "Ancient Egyptian Art",
+      "medium": "Sunken relief, Royal Family Portrait (King Akhenaten on left, Queen Nefertiti on the right, 3 of their daughters), Hieroglyphics in background",
+      "artist": ""
+    },
+    {
+      "filename": "images/37-queen-nefertari-making-an-offering-to-isis.png",
+      "title": "Queen Nefertari Making an Offering to Isis",
+      "period": "Ancient Egyptian Art",
+      "medium": "Wall Painting in the Tomb of Nefertari, preparing for her death, Hieroglyphics in background",
+      "artist": ""
+    },
+    {
+      "filename": "images/38-palette-of-narmer.png",
+      "title": "Palette of Narmer",
+      "period": "Early Dynastic (Ancient Egyptian Art)",
+      "medium": "Green schist (stone relief), Stone Palette possibly used for ceremonies",
+      "artist": ""
+    },
+    {
+      "filename": "images/39-ti-watching-a-hippopotamus-hunt.png",
+      "title": "Ti Watching a Hippopotamus Hunt",
+      "period": "Ancient Egyptian Art",
+      "medium": "Painted Limestone Relief, Ti was a court official, Surveying Hippo hunts was a duty of court officials, Hippos were thought to be destructive since they wandered into fields, damaging crops, Symbolizes victory of good over evil",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/01-Anavysos-Kouros.png",
+      "title": "Anavysos Kouros",
+      "period": "530 BCE (Archaic, Ancient Greek)",
+      "medium": "Sculpture (Marble)",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/02-Peplos-Kore.png",
+      "title": "Peplos Kore",
+      "period": "530 BCE (Archaic, Ancient Greek)",
+      "medium": "Sculpture (Marble)",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/03-Polykleitos.png",
+      "title": "Polykleitos, Doryphorus (Spear Bearer)",
+      "period": "450 - 440 BCE (Classical, Ancient Greek)",
+      "medium": "Marble (Roman Copy)",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/04-Dying-Warrior.png",
+      "title": "Dying Warrior",
+      "period": "480 BCE (Classical, Ancient Greek)",
+      "medium": "Marble ",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/05-Discus-Thrower.png",
+      "title": "Discus Thrower",
+      "period": "450 BCE (Classical, Ancient Greek)",
+      "medium": "Marble / Roman Copy",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/06-Lysippos.png",
+      "title": "Lysippos, The Scraper",
+      "period": "330 BCE (Classical, Ancient Greek)",
+      "medium": "Roman copy from original bronze",
+      "artist": "Lysippos"
+    },
+    {
+      "filename": "images/Ancient-Greek/07-Venus-de-Milo.png",
+      "title": "Venus de Milo",
+      "period": "150 BCE (Hellenistic, Ancient Greek)",
+      "medium": "Sculpture (Marble)",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/08-Nike-of-Samothrace.png",
+      "title": "Nike of Samothrace",
+      "period": "190 BCE (Hellenistic, Ancient Greek)",
+      "medium": "Marble / Roman Copy",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/09-Francois-Vase.png",
+      "title": "Francois Vase",
+      "period": "570 BCE (Archaic, Ancient Greek)",
+      "medium": "Sculpture (Painted Ceramic)",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/10-Euthymides.png",
+      "title": "Euthymides, Three Revelers",
+      "period": "510 BCE (Archaic, Ancient Greek)",
+      "medium": "Amphora Vase Form (Wine Storage Jar)",
+      "artist": "Painted by Euthymides"
+    },
+    {
+      "filename": "images/Ancient-Greek/11-Greek-Columns.png",
+      "title": "3 Types of Greek Columns:Doric, Ionic, and Corinthian",
+      "period": "Ancient Greek",
+      "medium": "Greek Columns",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/12-Sanctuary-of-Apollo.png",
+      "title": "Sanctuary of Apollo",
+      "period": "6th – 3rd century BCE, Ancient Greek",
+      "medium": "Architecture",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/13-Parthenon-Acropolis.png",
+      "title": "Parthenon, Acropolis",
+      "period": "447 – 438 BCE (Classical Period, Ancient Greek)",
+      "medium": "Acropolis - complex of buildings",
+      "artist": "Designed by Kallikrates and Iktinos (architects)"
+    },
+    {
+      "filename": "images/Ancient-Greek/14-East-Pediment-of-the-Parthenon.png",
+      "title": "East Pediment of the Parthenon",
+      "period": "447 – 438 BCE (Classical Period, Ancient Greek)",
+      "medium": "",
+      "artist": ""
+    },
+    {
+      "filename": "images/Ancient-Greek/15-Centaur-and-Lapith-Metope.png",
+      "title": "Centaur and Lapith Metope",
+      "period": "447 – 438 BCE (Classical Period, Ancient Greek)",
+      "medium": "Marble",
+      "artist": ""
+    }
+  ],
+  "images_final":[
+    {
+      "filename": "images/final/ancient-roman/01-augustus-of-primaporta.png",
+      "title": "Augustus of Primaporta",
+      "period": "1st Century CE (Ancient Roman)",
+      "medium": "Marble Sculpture (2 meters tall)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/02-constantine-the-great.png",
+      "title": "Constantine the Great",
+      "period": "325-325 CE (Ancient Roman)",
+      "medium": "Marble Sculpture (height of head 2.6 meters)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/03-antinous.png",
+      "title": "Antinous",
+      "period": "130-38 CE (Ancient Roman)",
+      "medium": "Marble Sculpture (2.41 meters tall)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/04-she-wolf.png",
+      "title": "She-Wolf",
+      "period": "500 BCE (Ancient Roman)",
+      "medium": "Sculpture (Bronze, 85 centimeters tall)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/05-colosseum.png",
+      "title": "Colosseum",
+      "period": "70-80 CE (Ancient Roman)",
+      "medium": "Architecture (with Doric, Ionic and Corinthian columns)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/06-arch-of-constantine.png",
+      "title": "Arch of Constantine",
+      "period": "312-315 CE (Ancient Roman)",
+      "medium": "Architecture",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/07-pantheon.png",
+      "title": "Pantheon",
+      "period": "118-128 CE (Ancient Roman)",
+      "medium": "Architecture",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/08-rotunda.png",
+      "title": "Rotunda (Circular Room)",
+      "period": "118-128 CE (Ancient Roman)",
+      "medium": "Architecture (143 feet in diameter, 143 feet from floor to summit)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/09-cityscape.png",
+      "title": "Cityscape",
+      "period": "1st century CE",
+      "medium": "Painting (Wall Painting, painted Corinthian Column)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/10-bedroom-house-of-publius-fannius-synistor.png",
+      "title": "Bedroom, House of Publius Fannius Synistor",
+      "period": "1st Century CE (Ancient Roman)",
+      "medium": "Architecture (Interior)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/ancient-roman/11-the-unswept-floor.png",
+      "title": "The Unswept Floor",
+      "period": "2nd Century CE (Ancient Roman)",
+      "medium": "Mosaic (Trompe L'oeil, fool the eye), (based on Greek painting)",
+      "artist": "Heraklitos"
+    },
+    {
+      "filename": "images/final/early-medieval/01-chi-rho-iota.png",
+      "title": "Chi Rho Iota",
+      "period": "800 CE (Early Medieval)",
+      "medium": "Drawing, (Page from Manuscript (Book of Kells))",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/early-medieval/02-matthew-the-evangelist.png",
+      "title": "Page with Matthew the Evangelist",
+      "period": "850 CE (Early Medieval)",
+      "medium": "Drawing (Ink and Colors on Vellum)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/early-medieval/03-crucifixion-with-angels-and-mourning-figures.png",
+      "title": "Crucifixion with Angels and Mourning Figures",
+      "period": "870 CE (Early Medieval)",
+      "medium": "Gold with relief and precious stones/pearls (outer cover of Lindau Gospels)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/early-medieval/04-hinged-clasp.png",
+      "title": "Hinged Clasp",
+      "period": "650 CE (Early Medieval)",
+      "medium": "Gold plaques with inlays of garnet and milefiori glass (length: 12.7 cm)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/early-medieval/05-burial-ship.png",
+      "title": "Burial Ship (Oseberg Ship)",
+      "period": "815-820 CE (Early Medieval, Norway)",
+      "medium": "Wood",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/early-medieval/06-borgund-stave-church.png",
+      "title": "Borgund Stave Church",
+      "period": "1125-1150 CE (Early Medieval, Norway)",
+      "medium": "Architecture, wooden buildings",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/early-medieval/07-church-of-st-cyriakus.png",
+      "title": "Church of St. Cyriakus",
+      "period": "961 CE (Early Medieval, Germany)",
+      "medium": "Architecture",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/01-cathedral-complex-of-pisa.png",
+      "title": "Cathedral Complex of Pisa",
+      "period": "1173 CE (begun), Romanesque (Tuscany, Italy)",
+      "medium": "Architecture",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/02-companile.png",
+      "title": "Companile (Bell Tower, Leaning Tower of Pisa)",
+      "period": "Romanesque (Tuscany, Italy)",
+      "medium": "Architecture",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/03-abbey-church-of-sainte-foy.png",
+      "title": "Abbey Church of Sainte-Foy",
+      "period": "1120 CE, Romanesque (Conques, France)",
+      "medium": "Architecture",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/04-the-nave-of-st-sernin.png",
+      "title": "The Nave of St. Sernin",
+      "period": "1080-1120 CE, Romanesque (Toulouse, France)",
+      "medium": "Architecture",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/05-portal-cathedral-of-saint-lazare.png",
+      "title": "Portal, Cathedral of Saint-Lazare",
+      "period": "1130 CE, Romanesque (Burgundy, France)",
+      "medium": "Relief Sculpture",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/06-creation-and-fall-of-adam-and-eve.png",
+      "title": "Creation and Fall of Adam and Eve",
+      "period": "1099 CE, Romanesque (Modena Cathedral, Italy)",
+      "medium": "Relief Sculpture (height: 92 cm)",
+      "artist": "Wiligelmus"
+    },
+    {
+      "filename": "images/final/romanesque/07-the-magi-asleep.png",
+      "title": "The Magi Asleep",
+      "period": "1125 CE, Romanesque (Modena Cathedral, Italy)",
+      "medium": "Capital (from interior of Cathedral of Saint-Lazare)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/08-christ-in-majesty.png",
+      "title": "Christ in Majesty",
+      "period": "1123 CE, Romanesque (Church of San Climent, Barcelona, Spain)",
+      "medium": "Wall Painting",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/09-bishop-odo-blessing-the-feast.png",
+      "title": "Bishop Odo Blessing the Feast (detail from Bayeux Embroidery)",
+      "period": "1066-1082 CE, Romanesque",
+      "medium": "Embroidery (Linen with Wool Thread)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/10-reliquary-statue-of-sainte-foy.png",
+      "title": "Reliquary Statue of Sainte Foy",
+      "period": "980 CE, Romanesque",
+      "medium": "Wood with Gold and Gems (height: 85 cm)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/romanesque/11-virgin-and-child-from-auvergne.png",
+      "title": "Virgin and Child from Auvergne, France",
+      "period": "Late 12th Century CE, Romanesque",
+      "medium": "Oak Wood (height: 78.7 cm)",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/early-renaissance/01.png",
+      "title": "David",
+      "period": "1432, Florence, Italy, Early Renaissance",
+      "medium": "sculpture, 5'2 ",
+      "artist": "Donatello"
+    },
+    {
+      "filename": "images/final/early-renaissance/02.png",
+      "title": "Dead Christ",
+      "period": "1501, Early Renaissance",
+      "medium": "Tempera on Canvas",
+      "artist": "Andrea Mantegna"
+    },
+    {
+      "filename": "images/final/early-renaissance/03.png",
+      "title": "Holy Trinity",
+      "period": "1427-1428, Early Renaissance",
+      "medium": "Painting based on Observation (looking at real humans as a model)",
+      "artist": "Masaccio"
+    },
+    {
+      "filename": "images/final/early-renaissance/04.png",
+      "title": "Battle of the Ten Nudes",
+      "period": "1465, Early Renaissance",
+      "medium": "Engraving",
+      "artist": "Antonio Pollaiuolo"
+    },
+    {
+      "filename": "images/final/early-renaissance/05.png",
+      "title": "The Temptation of Saint Anthony",
+      "period": "1470-1475, Early Renaissance",
+      "medium": "Engraving",
+      "artist": "Martin Schongauer"
+    },
+    {
+      "filename": "images/final/early-renaissance/06.png",
+      "title": "Expulsion of Adam and Eve from Eden",
+      "period": "1425, Early Renaissance",
+      "medium": "Fresco",
+      "artist": "Masaccio"
+    },
+    {
+      "filename": "images/final/early-renaissance/07.png",
+      "title": "Annuciation",
+      "period": "1438-1445, Early Renaissance",
+      "medium": "Fresco",
+      "artist": "Fra Angelico"
+    },
+    {
+      "filename": "images/final/early-renaissance/08.png",
+      "title": "Man in a Red Turban",
+      "period": "1433, Early Renaissance",
+      "medium": "Oil on Wood",
+      "artist": "Jan Van Eyck"
+    },
+    {
+      "filename": "images/final/early-renaissance/09.png",
+      "title": "Giovanni Arnolfini and His Bride",
+      "period": "1434, Early Renaissance",
+      "medium": "Oil on Wood",
+      "artist": "Jan Van Eyck"
+    },
+    {
+      "filename": "images/final/early-renaissance/10.png",
+      "title": "Merode Altarpiece",
+      "period": "1425-1428, Early Renaissance",
+      "medium": "Oil on Wood",
+      "artist": "Robert Campin"
+    },
+    {
+      "filename": "images/final/early-renaissance/11.png",
+      "title": "Birth of Venus",
+      "period": "1482, Early Renaissance",
+      "medium": "Tempera on Canvas",
+      "artist": "Botticelli"
+    },
+    {
+      "filename": "images/final/early-renaissance/12.png",
+      "title": "Dome of Florence Cathedral",
+      "period": "1420-1436, Early Renaissance",
+      "medium": "Architecture",
+      "artist": "Filippo Brunelleschi"
+    },
+    {
+      "filename": "images/final/early-renaissance/13.png",
+      "title": "Sacrifice of Isaac",
+      "period": "1401-1402, Early Renaissance",
+      "medium": "Gilded Bronze relief",
+      "artist": "Lorenzo Ghiberti"
+    },
+    {
+      "filename": "images/final/gothic-art/01.png",
+      "title": "Abbey Church of Saint-Denis",
+      "period": "1130-1144, Gothic",
+      "medium": "Architecture",
+      "artist": "Abbot Suger(Architect)"
+    },
+    {
+      "filename": "images/final/gothic-art/02.png",
+      "title": "Rose Window",
+      "period": "Gothic",
+      "medium": "",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/gothic-art/03.png",
+      "title": "Tomb of Marie-Antoinette",
+      "period": "Gothic",
+      "medium": "",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/gothic-art/04.png",
+      "title": "Notre Dame Paris",
+      "period": "1163, Gothic",
+      "medium": "",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/gothic-art/05.png",
+      "title": "Flying Buttresses",
+      "period": "Gothic",
+      "medium": "",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/gothic-art/06.png",
+      "title": "Ribbed Vaulting",
+      "period": "Gothic",
+      "medium": "",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/gothic-art/07.png",
+      "title": "Sainte-Chapelle",
+      "period": "1243-1248, Gothic",
+      "medium": "Stained glass",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/gothic-art/08.png",
+      "title": "Furrier's Shop",
+      "period": "Gothic",
+      "medium": "Stained Glass",
+      "artist": ""
+    },
+    {
+      "filename": "images/final/gothic-art/09.png",
+      "title": "Virgin and Child",
+      "period": "1139, Gothic",
+      "medium": "69cm",
+      "artist": "from the Abbey Church of St. Denis"
+    },
+    {
+      "filename": "images/final/gothic-art/10.png",
+      "title": "Virgin and Child Enthroned",
+      "period": "1280, Gothic",
+      "medium": "10 feet 8 inches x 6 feet 8 inches, Tempera Paint and Gold on Wood",
+      "artist": "Giotto di Bondone"
+    },
+    {
+      "filename": "images/final/gothic-art/11.png",
+      "title": "Arena Chapel, Padua, Italy",
+      "period": "Gothic",
+      "medium": "Paintings",
+      "artist": "Giotto"
+    },
+    {
+      "filename": "images/final/gothic-art/12.png",
+      "title": "Lamentation",
+      "period": "1305-1306, Gothic",
+      "medium": "Fresco Painting, Padua, Italy",
+      "artist": "Giotto di Bondone"
+    }
+  ]
+}
