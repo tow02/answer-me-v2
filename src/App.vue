@@ -1,17 +1,29 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-content>
+      <v-container fluid>
+        <img alt="Vue logo" src="./assets/logo.png">
+        <router-view></router-view>
+      </v-container>
+    </v-content>
+    <v-footer app>
+      <span>&nbsp;&copy; {{ currentYear }}</span>
+    </v-footer>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import moment from 'moment';
+
+const currentYear = moment().format("YYYY");
 
 export default {
   name: 'app',
-  components: {
-    HelloWorld
+  data() {
+    return {
+      "currentYear": currentYear
+    }
   }
 }
 </script>
@@ -23,6 +35,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  /* margin-top: 60px; */
 }
 </style>
